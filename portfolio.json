@@ -2,7 +2,7 @@
     "title": "IAB330 Hospital Staff and Patient Tracker",
     "description": "This project is an assignment for IAB330, focusing on the development of an IoT-based hospital tracking system. The system is designed to keep track of hospital staff and patients within various rooms using RFID tags. It consists of a React app for the user interface and a Node.js server to handle RFID tag data processing. The React app displays real-time information on the whereabouts of staff and patients, improving hospital workflow and patient care.",
     "type": "Assignment",
-    "photo": "https://cdn-icons-png.flaticon.com/512/2975/2975203.png",
+    "photo": "https://static.vecteezy.com/system/resources/previews/004/841/424/original/iot-sensors-gradient-icon-for-dark-theme-vector.jpg",
     "tags": "React, Node.js, IoT,IAB330",
     "related_projects": ""
 }
